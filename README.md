@@ -13,7 +13,7 @@ AI 도구를 활용해 아이디어를 앱으로 구현하고, 직접 사용하�
 |---|---|---|---|
 | **대사노트 · Line Memorizer** | 내 역할의 대사를 가리고 한 문장씩 확인하는 대본 암기·리딩 연습 | [웹](https://line-memorizer.com/) · [Android](https://play.google.com/store/apps/details?id=com.linememorizer.line_memorizer) | [프로젝트 소개](https://github.com/hyesun5464/hyesun5464.github.io/blob/main/portfolio/line-memorizer.md) |
 | **My Star** | 직접 정한 보상과 시각 타이머로 집중을 시작하고 작은 성취를 쌓는 경험 | [Android](https://play.google.com/store/apps/details?id=com.dohae.my_star) | [프로젝트 소개](https://github.com/hyesun5464/hyesun5464.github.io/blob/main/portfolio/my-star.md) |
-| **오늘저금 · Daily Piggy** | 하루 자유 예산을 가상 저금통에 쌓고 소비·목표를 관리하는 토스 미니앱 | 개발 프로젝트 · 공개 배포 미확인 | [프로젝트 소개](https://github.com/hyesun5464/hyesun5464/blob/main/projects/daily-piggy.md) |
+| **오늘저금 · Daily Piggy** | 하루 자유 예산을 가상 저금통에 쌓고 소비·목표를 관리하는 토스 미니앱 | 토스 미니앱 출시 완료 | [프로젝트 소개](https://github.com/hyesun5464/hyesun5464/blob/main/projects/daily-piggy.md) |
 
 ## 대사노트 화면
 
@@ -32,7 +32,17 @@ AI 도구를 활용해 아이디어를 앱으로 구현하고, 직접 사용하�
   <img src="https://raw.githubusercontent.com/hyesun5464/hyesun5464/main/assets/my-star-focus.png" width="230" alt="My Star 집중: 남은 시간을 면적으로 표시하는 타이머" />
 </p>
 
-홈에서 시간을 정하고 시작하면, 시각 타이머로 남은 시간을 확인할 수 있습니다.
+<p>
+  <img src="https://raw.githubusercontent.com/hyesun5464/hyesun5464/main/assets/my-star-rewards.png" width="230" alt="My Star 보상 목록" />
+  <img src="https://raw.githubusercontent.com/hyesun5464/hyesun5464/main/assets/my-star-idea-pack.png" width="230" alt="My Star 아이디어팩" />
+</p>
+
+<p>
+  <img src="https://raw.githubusercontent.com/hyesun5464/hyesun5464/main/assets/my-star-completion.png" width="230" alt="My Star 집중 완료와 별 획득" />
+  <img src="https://raw.githubusercontent.com/hyesun5464/hyesun5464/main/assets/my-star-constellation.png" width="230" alt="My Star 밤하늘 별자리" />
+</p>
+
+보상 목록과 아이디어팩으로 보상을 준비하고, 집중 완료 후 별을 모아 별자리를 채워갑니다.
 
 ## 앱을 만드는 방식
 
