@@ -14,6 +14,15 @@ AI 도구를 활용해 아이디어를 앱으로 구현하고, 직접 사용하�
 | **대사노트 · Line Memorizer** | 내 역할의 대사를 가리고 한 문장씩 확인하는 대본 암기·리딩 연습 | [웹](https://line-memorizer.com/) · [Android](https://play.google.com/store/apps/details?id=com.linememorizer.line_memorizer) | [프로젝트 소개](https://github.com/hyesun5464/hyesun5464.github.io/blob/main/portfolio/line-memorizer.md) |
 | **My Star** | 직접 정한 보상과 시각 타이머로 집중을 시작하고 작은 성취를 쌓는 경험 | [Android](https://play.google.com/store/apps/details?id=com.dohae.my_star) | [프로젝트 소개](https://github.com/hyesun5464/hyesun5464.github.io/blob/main/portfolio/my-star.md) |
 
+## My Star 화면
+
+<p>
+  <img src="https://raw.githubusercontent.com/hyesun5464/hyesun5464/main/assets/my-star-home.png" width="230" alt="My Star 홈: 별과 할 일, 집중 시간 선택" />
+  <img src="https://raw.githubusercontent.com/hyesun5464/hyesun5464/main/assets/my-star-focus.png" width="230" alt="My Star 집중: 남은 시간을 면적으로 표시하는 타이머" />
+</p>
+
+홈에서 시간을 정하고 시작하면, 시각 타이머로 남은 시간을 확인할 수 있습니다.
+
 ## 앱을 만드는 방식
 
 - **문제와 사용 흐름부터 정합니다.** 누구에게 어떤 순간이 불편한지 살피고 핵심 기능을 고릅니다.
